@@ -95,10 +95,18 @@ categories:
         url: https://git-scm.com
         icon: fab fa-git-alt
         description: 版本控制工具
+      - name: Claw.cloud
+        url: https://ap-northeast-1.run.claw.cloud
+        icon: fab fa-mixcloud
+        description: 免费容器化平台5/月
       - name: Docker
         url: https://www.docker.com
         icon: fab fa-docker
         description: 容器化平台
+      - name: Uptimerobot
+        url: https://dashboard.uptimerobot.com/monitors
+        icon: fas fa-stopwatch
+        description: 一个监控工具
   - name: 设计资源
     icon: fas fa-palette
     sites:
