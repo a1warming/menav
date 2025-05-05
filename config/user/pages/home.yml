@@ -22,6 +22,15 @@ categories:
         url: https://chat.openai.com
         icon: fas fa-robot
         description: AI智能助手
+      - name: Cloudflare
+        url: https://dash.cloudflare.com
+        icon: fas fa-cloudflare
+        description: 高效、安全、全球加速
+      - name: Fontawesome
+        url: https://fontawesome.com/search
+        icon: fas fa-regular fa-font-awesome
+        description: 加速、安全、可靠的网络服务提供商
+        
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
