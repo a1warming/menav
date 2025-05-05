@@ -1,29 +1,781 @@
+# 自动生成的书签配置文件
+# 由bookmark-processor.js生成于 2025-05-05T12:33:53.696Z
+# 若要更新，请将新的书签HTML文件放入bookmarks/目录
+# 此文件使用模块化配置格式，位于config/user/pages/目录下
+
 title: 我的书签
 subtitle: 从浏览器导入的书签收藏
 categories:
-  - name: 技术资源
+  - name: 学习
     icon: fas fa-folder
     sites:
-      - name: GitHub
-        url: https://github.com/
-        icon: fab fa-github
-        description: "从书签导入: GitHub"
-      - name: Stack Overflow
-        url: https://stackoverflow.com/
-        icon: fab fa-stack-overflow
-        description: "从书签导入: Stack Overflow"
-      - name: MDN Web Docs
-        url: https://developer.mozilla.org/
+      - name: 《大白话重难点 · 会计》汇总清单
+        url: https://mp.weixin.qq.com/s/8UIqLPO5ZZL5ig_Lgam1tA
         icon: fas fa-link
-        description: "从书签导入: MDN Web Docs"
-  - name: 社交媒体
+        description: 《大白话重难点 · 会计》汇总清单
+      - name: 《你问我答 · 会计》汇总清单
+        url: https://mp.weixin.qq.com/s?__biz=Mzg3OTgxMjMyMQ==&mid=2247487054&idx=2&sn=f38f7db9c3bae71b9001ea913dca2a3c&chksm=cf7f85c0f8080cd6ea4a923d98d1957a06ead85a9c156711d610ad7dd1c6fa4ff844a1beed66&scene=132#wechat_redirect
+        icon: fas fa-link
+        description: 《你问我答 · 会计》汇总清单
+      - name: 《大白话重难点 · 财管》汇总清单
+        url: https://mp.weixin.qq.com/s/Z6biPMFAP1lSoJPFELcm9g
+        icon: fas fa-link
+        description: 《大白话重难点 · 财管》汇总清单
+      - name: mp.weixin.qq.com/mp/homepage?__biz=Mzg3OTgxMjMyMQ==&amp;hid=2&amp;sn=68e0d0ad5b398981b2e4b6b21c52c041&amp;scene=18#wechat_redirect
+        url: http://mp.weixin.qq.com/mp/homepage?__biz=Mzg3OTgxMjMyMQ==&hid=2&sn=68e0d0ad5b398981b2e4b6b21c52c041&scene=18#wechat_redirect
+        icon: fas fa-link
+        description: mp.weixin.qq.com/mp/homepage?__biz=Mzg3OTgxMjMyMQ==&amp;hid=2&amp;sn=68e0d0ad5b398981b2e4b6b21c52c041&amp;scene=18#wechat_redirect
+      - name: cpa模拟考试
+        url: http://cpademo.cicpa.org.cn/demo/t/cpa2022/1
+        icon: fas fa-link
+        description: cpa模拟考试
+  - name: 工具
     icon: fas fa-folder
     sites:
-      - name: Twitter
-        url: https://twitter.com/
-        icon: fab fa-twitter
-        description: "从书签导入: Twitter"
-      - name: LinkedIn
-        url: https://www.linkedin.com/
-        icon: fab fa-linkedin
-        description: "从书签导入: LinkedIn" 
+      - name: 阿里云盘 夸克 天翼 和彩云 全变本地硬盘alist+RaiDrive-拒绝CloudDrive[为啥不开... - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+        url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1645947&extra=page%3D2%26filter%3Dtypeid%26typeid%3D231
+        icon: fas fa-link
+        description: 阿里云盘 夸克 天翼 和彩云 全变本地硬盘alist+RaiDrive-拒绝CloudDrive[为啥不开... - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+      - name: Alist最新安装教程：小白看了也能搭建自己的网盘管理程序！_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV11A4y1R7rn/?vd_source=ca76dcd6bd1fa861681d3d9647d3d116
+        icon: fas fa-link
+        description: Alist最新安装教程：小白看了也能搭建自己的网盘管理程序！_哔哩哔哩_bilibili
+      - name: Alist怎么添加网盘帐号？_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1xT41157r8/?vd_source=ca76dcd6bd1fa861681d3d9647d3d116
+        icon: fas fa-link
+        description: Alist怎么添加网盘帐号？_哔哩哔哩_bilibili
+      - name: 阿里云盘 | Alist Document
+        url: https://alist-doc.nn.ci/docs/driver/aliyundrive
+        icon: fas fa-link
+        description: 阿里云盘 | Alist Document
+      - name: Alist
+        url: http://127.0.0.1:5244/
+        icon: fas fa-link
+        description: Alist
+      - name: 自动认领
+        url: javascript:(()=>{document.getElementById(&quot;ka1&quot;).innerHTML = document.getElementById(&quot;ka1&quot;).innerHTML.replace(/<a href=&quot;#%22%20data-url=%22viewclaims.php?/g,%20'%3Ca%20href=%22viewclaims.php')})();
+        icon: fab fa-js
+        description: 自动认领
+      - name: "[教程]如何使用简悦自带的 PDF 导出方案 · Discussion #2762 · Kenshin/simpread · GitHub"
+        url: https://github.com/Kenshin/simpread/discussions/2762
+        icon: fab fa-github
+        description: "[教程]如何使用简悦自带的 PDF 导出方案 · Discussion #2762 · Kenshin/simpread · GitHub"
+      - name: "安装插件或带有插件触发器的插件失效的解决方案 · Discussion #2342 · Kenshin/simpread"
+        url: https://github.com/Kenshin/simpread/discussions/2342
+        icon: fab fa-github
+        description: "安装插件或带有插件触发器的插件失效的解决方案 · Discussion #2342 · Kenshin/simpread"
+      - name: TV软件_盒子软件_电视软件-分享迷
+        url: https://www.fenxm.com/tv
+        icon: fas fa-link
+        description: TV软件_盒子软件_电视软件-分享迷
+      - name: Machines - Tailscale
+        url: https://login.tailscale.com/admin/machines
+        icon: fas fa-link
+        description: Machines - Tailscale
+      - name: "DS918\_-\_Synology\_DiskStation"
+        url: http://100.109.9.25:5000/
+        icon: fas fa-link
+        description: "DS918\_-\_Synology\_DiskStation"
+      - name: Jellyfin
+        url: http://100.109.9.25:8096/web/index.html#!/home.html
+        icon: fas fa-link
+        description: Jellyfin
+      - name: qBittorrent v4.4.5 Web UI
+        url: http://100.109.9.25:8080/
+        icon: fas fa-link
+        description: qBittorrent v4.4.5 Web UI
+      - name: IYUU登陆
+        url: http://100.109.9.25:8787/page/login.html
+        icon: fas fa-link
+        description: IYUU登陆
+      - name: 仪表盘 - PT一下你就知道
+        url: http://100.109.9.25:8082/dashboard/analysis
+        icon: fas fa-link
+        description: 仪表盘 - PT一下你就知道
+      - name: docker-Transmission WEB 控制器 1.6.1
+        url: http://100.109.9.25:9092/transmission/web/
+        icon: fas fa-link
+        description: docker-Transmission WEB 控制器 1.6.1
+      - name: PTDream
+        url: https://img.ptdream.net/dashboard
+        icon: fas fa-link
+        description: PTDream
+      - name: "ＰＴ之友俱乐部 :: 查看主题 &quot;最简频谱图制作教程&quot; PTerClub"
+        url: https://pterclub.com/forums.php?action=viewtopic&forumid=25&topicid=3914
+        icon: fas fa-link
+        description: "ＰＴ之友俱乐部 :: 查看主题 &quot;最简频谱图制作教程&quot; PTerClub"
+      - name: "ＰＴ之友俱乐部 :: 查看主题 &quot;【转】频谱图制作教程&quot; PTerClub"
+        url: https://pterclub.com/forums.php?action=viewtopic&forumid=25&topicid=3537
+        icon: fas fa-link
+        description: "ＰＴ之友俱乐部 :: 查看主题 &quot;【转】频谱图制作教程&quot; PTerClub"
+      - name: redacted Interview Prep - 欢迎
+        url: https://interviewfor.red/zh/index.html
+        icon: fas fa-link
+        description: redacted Interview Prep - 欢迎
+      - name: NAStool
+        url: http://100.109.9.25:3003/web#index
+        icon: fas fa-link
+        description: NAStool
+      - name: AI Chat
+        url: https://yeyu1024.xyz/gpt.html?random=0.4628575584439707&from=js&ver=2.8.9
+        icon: fas fa-link
+        description: AI Chat
+      - name: NAS干货分享 篇三：群晖docker注册表查询失败的解决办法_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/aqme9k5k/
+        icon: fas fa-link
+        description: NAS干货分享 篇三：群晖docker注册表查询失败的解决办法_NAS存储_什么值得买
+      - name: 群晖Docker搭建Emby媒体库指南、片源搜刮、媒体库配置、插件安装_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/akke9zwk/
+        icon: fas fa-link
+        description: 群晖Docker搭建Emby媒体库指南、片源搜刮、媒体库配置、插件安装_NAS存储_什么值得买
+      - name: WxPusher微信消息推送服务
+        url: https://wxpusher.zjiecode.com/admin/main/app/appInfo
+        icon: fas fa-link
+        description: WxPusher微信消息推送服务
+      - name: 群辉NAS搭建emby媒体库实现家庭影院保姆级搭建教程_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1aL411873n/
+        icon: fas fa-link
+        description: 群辉NAS搭建emby媒体库实现家庭影院保姆级搭建教程_哔哩哔哩_bilibili
+      - name: 百度翻译
+        url: https://fanyi.baidu.com/translate?aldtype=16047&query=YADG%0D%0A&keyfrom=baidu&smartresult=dict&lang=auto2zh#en/zh/Max%20retries%20exceeded%20with%20url%3A%20%2Fshowup.php%20(Caused%20by%20ConnectTimeoutError(%3Curllib3.connection.HTTPSConnection%20object%20at%200x7fde9b4e4d30%3E%2C%20%E2%80%98Connection%20to%20u2.dmhy.org%20timed%20out.%20(connect%20timeout%3D75)%E2%80%99))
+        icon: fas fa-link
+        description: 百度翻译
+      - name: 群晖修改hosts文件 - 简书
+        url: https://www.jianshu.com/p/31b53138044c
+        icon: fas fa-link
+        description: 群晖修改hosts文件 - 简书
+      - name: DNS Checker - DNS Check Propagation Tool
+        url: https://dnschecker.org/country/cn/#A/dicmusic.club
+        icon: fas fa-link
+        description: DNS Checker - DNS Check Propagation Tool
+      - name: 联通网络打不开馒头（mteam）PT站及红种解决方法 | PT邀请码网
+        url: http://www.ptyqm.com/30170.html
+        icon: fas fa-link
+        description: 联通网络打不开馒头（mteam）PT站及红种解决方法 | PT邀请码网
+      - name: 企业微信
+        url: https://work.weixin.qq.com/wework_admin/frame#apps
+        icon: fas fa-link
+        description: 企业微信
+      - name: 一个端口访问NAS所有服务，使用二级域名定义你的每一项服务 - 哔哩哔哩
+        url: https://www.bilibili.com/read/cv24627159
+        icon: fas fa-link
+        description: 一个端口访问NAS所有服务，使用二级域名定义你的每一项服务 - 哔哩哔哩
+      - name: 首页 - LZTR图像数据库
+        url: https://img.lztr.me/index.php?message_id=8aae5e2cc710ea6be5af7bbe131d89ed&message_icon=success#cpgMessageBlock
+        icon: fas fa-link
+        description: 首页 - LZTR图像数据库
+      - name: Ubuntu 安装中文输入法 小白版 - 简书
+        url: https://www.jianshu.com/p/a800fa6d57b7
+        icon: fas fa-link
+        description: Ubuntu 安装中文输入法 小白版 - 简书
+      - name: VMware 安装 Ubuntu（2023 当然要看热乎的教程了）_vmware安装ubuntu-CSDN博客
+        url: https://blog.csdn.net/m0_51913750/article/details/131604868
+        icon: fas fa-link
+        description: VMware 安装 Ubuntu（2023 当然要看热乎的教程了）_vmware安装ubuntu-CSDN博客
+      - name: 虚拟机Ubuntu与主机进行文件交互的方法及配置_vm乌班图20.042.启动文件交换模式_可见一班的博客-CSDN博客
+        url: https://blog.csdn.net/abanchao/article/details/127056929
+        icon: fas fa-link
+        description: 虚拟机Ubuntu与主机进行文件交互的方法及配置_vm乌班图20.042.启动文件交换模式_可见一班的博客-CSDN博客
+      - name: Linux 更改文件权限_linux 修改文件夹权限-CSDN博客
+        url: https://blog.csdn.net/qq_41442511/article/details/124187787
+        icon: fas fa-link
+        description: Linux 更改文件权限_linux 修改文件夹权限-CSDN博客
+      - name: 下载 Microsoft Edge
+        url: https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ
+        icon: fab fa-microsoft
+        description: 下载 Microsoft Edge
+      - name: frps dashboard
+        url: http://124.221.159.183:7500/static/#/proxies/tcp
+        icon: fas fa-link
+        description: frps dashboard
+      - name: 群晖套件重装过程中提示端口被占用的解决方案_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/adwg5mkd/
+        icon: fas fa-link
+        description: 群晖套件重装过程中提示端口被占用的解决方案_NAS存储_什么值得买
+      - name: SakuraFrp
+        url: https://www.natfrp.com/user/
+        icon: fas fa-link
+        description: SakuraFrp
+      - name: SakuraFrp Launcher WebUI
+        url: https://124.221.159.183:4101/
+        icon: fas fa-link
+        description: SakuraFrp Launcher WebUI
+      - name: 电影刮削问题-THEMOVIEDB等站点 - 哔哩哔哩
+        url: https://www.bilibili.com/read/cv18493161/
+        icon: fas fa-link
+        description: 电影刮削问题-THEMOVIEDB等站点 - 哔哩哔哩
+      - name: 宝塔Linux面板
+        url: http://124.221.159.183:38897/docker
+        icon: fas fa-link
+        description: 宝塔Linux面板
+      - name: CookieCloud
+        url: https://flowus.cn/share/82813f61-0e83-4560-aa73-55e2ab1f9c63
+        icon: fas fa-link
+        description: CookieCloud
+      - name: 存储 | AList 管理115直链
+        url: http://loveximi.cy0113.top:5255/@manage/storages
+        icon: fas fa-link
+        description: 存储 | AList 管理115直链
+      - name: New Issue · DaoCloud/public-image-mirror
+        url: https://github.com/DaoCloud/public-image-mirror/issues/new?labels=sync+image&template=sync-image.yml
+        icon: fab fa-github
+        description: New Issue · DaoCloud/public-image-mirror
+      - name: Linux Mint系统常用软件安装-CSDN博客
+        url: https://blog.csdn.net/PellyKoo/article/details/127843481
+        icon: fas fa-link
+        description: Linux Mint系统常用软件安装-CSDN博客
+  - name: manjaro
+    icon: fas fa-folder
+    sites:
+      - name: Manjaro/Arch Linux 安装搜狗输入法（Fcitx5）_manjaro输入法安装-CSDN博客
+        url: https://blog.csdn.net/yj363937/article/details/138329214
+        icon: fas fa-link
+        description: Manjaro/Arch Linux 安装搜狗输入法（Fcitx5）_manjaro输入法安装-CSDN博客
+      - name: Manjaro安装、配置、调试超详细攻略-CSDN博客
+        url: https://blog.csdn.net/m0_47670683/article/details/113793200
+        icon: fas fa-link
+        description: Manjaro安装、配置、调试超详细攻略-CSDN博客
+      - name: 获取Token | 易有云 文档中心
+        url: https://doc.linkease.com/zh/guide/ddnsto/koolshare_merlin.html#%E5%AE%89%E8%A3%85ddnsto
+        icon: fas fa-link
+        description: 获取Token | 易有云 文档中心
+      - name: 5G CPE 烽火
+        url: http://192.168.8.2/main.html#/home
+        icon: fas fa-link
+        description: 5G CPE 烽火
+      - name: "loveximi\_-\_Synology\_NAS"
+        url: http://192.168.8.51:5000/index.cgi
+        icon: fas fa-link
+        description: "loveximi\_-\_Synology\_NAS"
+      - name: pve - Proxmox Virtual Environment
+        url: "https://192.168.8.115:8006/#v1:0:18:4:=jsconsole:=contentIso:::8::"
+        icon: fas fa-link
+        description: pve - Proxmox Virtual Environment
+      - name: ImmortalWrt - 接口 - LuCI
+        url: http://192.168.8.125:6001/cgi-bin/luci/admin/network/network
+        icon: fas fa-link
+        description: ImmortalWrt - 接口 - LuCI
+      - name: pve-BleachWrt - LuCI - http://192.168.8.254/
+        url: http://192.168.8.254/cgi-bin/luci/
+        icon: fas fa-link
+        description: pve-BleachWrt - LuCI - http://192.168.8.254/
+      - name: pve - Proxmox Virtual Environment - https://192.168.8.115:8006/
+        url: "https://192.168.8.115:8006/#v1:0:18:4:::::::"
+        icon: fas fa-link
+        description: pve - Proxmox Virtual Environment - https://192.168.8.115:8006/
+      - name: 宝塔Linux面板
+        url: http://124.221.159.183:38897/firewall
+        icon: fas fa-link
+        description: 宝塔Linux面板
+  - name: 其他
+    icon: fas fa-folder
+    sites:
+      - name: "PDF 辅助增强 · Discussion #2721 · Kenshin/simpread"
+        url: https://github.com/Kenshin/simpread/discussions/2721
+        icon: fab fa-github
+        description: "PDF 辅助增强 · Discussion #2721 · Kenshin/simpread"
+  - name: 群辉
+    icon: fas fa-folder
+    sites:
+      - name: IYUU PLUS
+        url: http://192.168.8.125:8787/index.html
+        icon: fas fa-link
+        description: IYUU PLUS
+      - name: 仪表盘 - PT一下你就知道
+        url: http://192.168.8.125:82/
+        icon: fas fa-link
+        description: 仪表盘 - PT一下你就知道
+      - name: NAStool - 资源归集、整理自动化工具
+        url: http://192.168.8.125:3003/
+        icon: fas fa-link
+        description: NAStool - 资源归集、整理自动化工具
+      - name: "DS918\_-\_Synology\_DiskStation"
+        url: http://192.168.8.125:5000/
+        icon: fas fa-link
+        description: "DS918\_-\_Synology\_DiskStation"
+      - name: Jellyfin
+        url: http://192.168.8.125:8096/web/index.html#!/home.html
+        icon: fas fa-link
+        description: Jellyfin
+      - name: Transmission WEB 控制器 1.6.1
+        url: http://192.168.8.125:9092/transmission/web/
+        icon: fas fa-link
+        description: Transmission WEB 控制器 1.6.1
+      - name: qBittorrent v4.4.5 Web UI
+        url: http://192.168.8.125:8080/
+        icon: fas fa-link
+        description: qBittorrent v4.4.5 Web UI
+      - name: 影片质量配置设置 - Radarr
+        url: http://192.168.8.125:8310/settings/quality
+        icon: fas fa-link
+        description: 影片质量配置设置 - Radarr
+      - name: Indexer Settings - Sonarr
+        url: http://192.168.8.125:8989/settings/indexers
+        icon: fas fa-link
+        description: Indexer Settings - Sonarr
+      - name: Jackett
+        url: http://192.168.8.125:9117/UI/Dashboard#
+        icon: fas fa-link
+        description: Jackett
+      - name: 我的 API 设置 — The Movie Database (TMDB)
+        url: https://www.themoviedb.org/settings/api
+        icon: fas fa-link
+        description: 我的 API 设置 — The Movie Database (TMDB)
+      - name: ChineseSubFinder Panel
+        url: http://192.168.8.125:19035/#/settings
+        icon: fas fa-link
+        description: ChineseSubFinder Panel
+      - name: PT管理宝辅助程序
+        url: http://115.231.218.143:43997/index.html#/login
+        icon: fas fa-link
+        description: PT管理宝辅助程序
+      - name: Audiobookshelf听书
+        url: http://192.168.8.125:13378/config/libraries
+        icon: fas fa-link
+        description: Audiobookshelf听书
+      - name: IYUUPlus安装篇--群晖docker - 大卫Blog
+        url: https://www.iyuu.cn/archives/426/
+        icon: fas fa-link
+        description: IYUUPlus安装篇--群晖docker - 大卫Blog
+      - name: 群辉安卓app
+        url: https://www.synology.cn/zh-cn/support/download/DS918+?version=7.1#androids
+        icon: fas fa-link
+        description: 群辉安卓app
+      - name: Synology Account
+        url: https://account.synology.com/zh-cn/overview
+        icon: fas fa-link
+        description: Synology Account
+      - name: 奇异书屋 | 奇异书屋
+        url: http://192.168.8.125:8083/recent
+        icon: fas fa-link
+        description: 奇异书屋 | 奇异书屋
+      - name: 探索 - Jellyseerr
+        url: http://192.168.8.125:5055/
+        icon: fas fa-link
+        description: 探索 - Jellyseerr
+      - name: 大白话CPA重难点·会计从未如此简单——收入（一）
+        url: https://mp.weixin.qq.com/s?__biz=Mzg3OTgxMjMyMQ==&mid=2247486778&idx=1&sn=41e6422172b8018aa877bf2265da7806&source=41#wechat_redirect
+        icon: fas fa-link
+        description: 大白话CPA重难点·会计从未如此简单——收入（一）
+      - name: "导出 PDF 的疑问 · Issue #4189 · Kenshin/simpread"
+        url: https://github.com/Kenshin/simpread/issues/4189#issuecomment-1179557686=
+        icon: fab fa-github
+        description: "导出 PDF 的疑问 · Issue #4189 · Kenshin/simpread"
+      - name: "安装插件或带有插件触发器的插件失效的解决方案 · Discussion #2342 · Kenshin/simpread"
+        url: https://github.com/Kenshin/simpread/discussions/2342
+        icon: fab fa-github
+        description: "安装插件或带有插件触发器的插件失效的解决方案 · Discussion #2342 · Kenshin/simpread"
+      - name: 【Docker项目】简单明了的反向代理工具-nginxWebUI - 浮云遮眼|Stay hungry Stay foolish
+        url: https://blog.ddsrem.com/archives/joplin
+        icon: fas fa-link
+        description: 【Docker项目】简单明了的反向代理工具-nginxWebUI - 浮云遮眼|Stay hungry Stay foolish
+  - name: pt
+    icon: fas fa-folder
+    sites:
+      - name: "HD Dolby :: 首页 - Powered by NexusPHP"
+        url: https://www.hddolby.com/index.php
+        icon: fas fa-link
+        description: "HD Dolby :: 首页 - Powered by NexusPHP"
+      - name: "烧包 :: 种子 - Powered by PTSBAO"
+        url: https://ptsbao.club/torrents.php
+        icon: fas fa-link
+        description: "烧包 :: 种子 - Powered by PTSBAO"
+      - name: Stream Movies &amp; TV Shows | Plex
+        url: https://www.plex.tv/zh/
+        icon: fas fa-link
+        description: Stream Movies &amp; TV Shows | Plex
+      - name: "铂金学院 :: 种子 - Powered by NexusPHP"
+        url: https://ptchina.org/torrents.php?inclbookmarked=0&incldead=1&spstate=0&page=0&sort=5&type=asc
+        icon: fas fa-link
+        description: "铂金学院 :: 种子 - Powered by NexusPHP"
+      - name: "HDVIDEO :: 签到 - Powered by NexusPHP"
+        url: https://hdvideo.one/attendance.php
+        icon: fas fa-link
+        description: "HDVIDEO :: 签到 - Powered by NexusPHP"
+      - name: "GainBound :: 种子 - Powered by NexusPHP"
+        url: https://gainbound.net/torrents.php?inclbookmarked=0&incldead=0&spstate=0&sort=8&type=desc&page=1
+        icon: fas fa-link
+        description: "GainBound :: 种子 - Powered by NexusPHP"
+      - name: "HHCLUB :: 首页 - Powered by NexusPHP"
+        url: https://hhanclub.top/index.php
+        icon: fas fa-link
+        description: "HHCLUB :: 首页 - Powered by NexusPHP"
+      - name: "备胎 :: 种子 - Powered by NexusPHP"
+        url: https://www.beitai.pt/torrents.php
+        icon: fas fa-link
+        description: "备胎 :: 种子 - Powered by NexusPHP"
+      - name: "Audiences :: 首页 - Powered by NexusPHP"
+        url: https://audiences.me/index.php
+        icon: fas fa-link
+        description: "Audiences :: 首页 - Powered by NexusPHP"
+      - name: "HDTIME :: 首页 高清时间 | pt｜下载｜10bit |HDTimePT - Powered by NexusPHP"
+        url: https://hdtime.org/index.php
+        icon: fas fa-link
+        description: "HDTIME :: 首页 高清时间 | pt｜下载｜10bit |HDTimePT - Powered by NexusPHP"
+      - name: "猪猪网 :: 首页 - Powered by NexusPHP"
+        url: https://piggo.me/index.php
+        icon: fas fa-link
+        description: "猪猪网 :: 首页 - Powered by NexusPHP"
+      - name: "HDAtmos :: 种子 *HDAtmos 阿童木洗版4K蓝光原盘高清 Atmos/DTS:X - Powered by NexusPHP"
+        url: https://hdatmos.club/torrents.php
+        icon: fas fa-link
+        description: "HDAtmos :: 种子 *HDAtmos 阿童木洗版4K蓝光原盘高清 Atmos/DTS:X - Powered by NexusPHP"
+      - name: "大青虫 :: 首页 - Powered by NexusPHP"
+        url: https://cyanbug.net/index.php
+        icon: fas fa-link
+        description: "大青虫 :: 首页 - Powered by NexusPHP"
+      - name: "首页 :: 朱雀 - ZHUQUE :: Powered By TNode"
+        url: https://zhuque.in/index
+        icon: fas fa-link
+        description: "首页 :: 朱雀 - ZHUQUE :: Powered By TNode"
+      - name: "2xFree :: 首页 - Powered by NexusPHP"
+        url: https://pt.2xfree.org/index.php
+        icon: fas fa-link
+        description: "2xFree :: 首页 - Powered by NexusPHP"
+      - name: LemonHD-首页
+        url: https://lemonhd.org/index.php
+        icon: fas fa-link
+        description: LemonHD-首页
+      - name: "HDSky :: 首页 高清视界|高清天空|高清发烧友的后花园 - Powered by NexusPHP"
+        url: https://hdsky.me/index.php
+        icon: fas fa-link
+        description: "HDSky :: 首页 高清视界|高清天空|高清发烧友的后花园 - Powered by NexusPHP"
+      - name: "WinterSakura :: 首页 A little Private Sharing Website. - Powered by NexusPHP"
+        url: https://wintersakura.net/index.php
+        icon: fas fa-link
+        description: "WinterSakura :: 首页 A little Private Sharing Website. - Powered by NexusPHP"
+      - name: "红叶 :: 首页 - Red Leaves"
+        url: https://leaves.red/index.php
+        icon: fas fa-link
+        description: "红叶 :: 首页 - Red Leaves"
+      - name: "NicePT :: 首頁 - Powered by NexusPHP"
+        url: https://www.nicept.net/index.php
+        icon: fas fa-link
+        description: "NicePT :: 首頁 - Powered by NexusPHP"
+      - name: "BTSCHOOL :: 首页 比特校园PT小乐园 - Powered by NexusPHP"
+        url: https://pt.btschool.club/index.php
+        icon: fas fa-link
+        description: "BTSCHOOL :: 首页 比特校园PT小乐园 - Powered by NexusPHP"
+      - name: "DiscFan :: 首頁 - Powered by NexusPHP"
+        url: https://discfan.net/index.php
+        icon: fas fa-link
+        description: "DiscFan :: 首頁 - Powered by NexusPHP"
+      - name: "TCCF :: 首页"
+        url: https://et8.org/index.php
+        icon: fas fa-link
+        description: "TCCF :: 首页"
+      - name: "M-Team - TP :: 首頁 - Powered by NexusPHP"
+        url: https://kp.m-team.cc/index.php
+        icon: fas fa-link
+        description: "M-Team - TP :: 首頁 - Powered by NexusPHP"
+      - name: "明教 :: 首页 - Powered by NexusPHP"
+        url: https://hdpt.xyz/index.php
+        icon: fas fa-link
+        description: "明教 :: 首页 - Powered by NexusPHP"
+      - name: "ZmPT(织梦) :: 首页 - Powered by NexusPHP"
+        url: https://zmpt.cc/index.php
+        icon: fas fa-link
+        description: "ZmPT(织梦) :: 首页 - Powered by NexusPHP"
+      - name: 资源 - HDPOST
+        url: https://pt.hdpost.top/torrents?perPage=25
+        icon: fas fa-link
+        description: 资源 - HDPOST
+      - name: "SharkPT :: 首页 - Powered by NexusPHP"
+        url: https://sharkpt.net/index.php
+        icon: fas fa-link
+        description: "SharkPT :: 首页 - Powered by NexusPHP"
+      - name: TorrentLeech.org
+        url: https://www.torrentleech.org/torrents/top/index/added/-1%20day/orderby/completed/order/desc
+        icon: fas fa-link
+        description: TorrentLeech.org
+      - name: "Torrents - IPTorrents - #1 Private Tracker"
+        url: https://iptorrents.com/t
+        icon: fas fa-link
+        description: "Torrents - IPTorrents - #1 Private Tracker"
+      - name: rtainment - HDCITY 首页 - An Advanced City For Ente
+        url: https://hdcity.city/
+        icon: fas fa-link
+        description: rtainment - HDCITY 首页 - An Advanced City For Ente
+      - name: "PT@KEEPFRDS :: 首页 - Powered by NexusPHP"
+        url: https://pt.keepfrds.com/index.php
+        icon: fas fa-link
+        description: "PT@KEEPFRDS :: 首页 - Powered by NexusPHP"
+      - name: "HDArea :: 首页 High Definition Area|高清视界 - Powered by NexusPHP"
+        url: https://www.hdarea.co/index.php
+        icon: fas fa-link
+        description: "HDArea :: 首页 High Definition Area|高清视界 - Powered by NexusPHP"
+      - name: "小蚂蚁PT站 :: 首页 小蚂蚁PT,XiaoMayi - Powered by NexusPHP"
+        url: http://hdmayi.com/index.php
+        icon: fas fa-link
+        description: "小蚂蚁PT站 :: 首页 小蚂蚁PT,XiaoMayi - Powered by NexusPHP"
+      - name: "HDHome :: 首页 高清家园 - Powered by NexusPHP"
+        url: https://hdhome.org/index.php
+        icon: fas fa-link
+        description: "HDHome :: 首页 高清家园 - Powered by NexusPHP"
+      - name: "梓喵 :: 签到 - Powered by NexusPHP"
+        url: https://azusa.wiki/attendance.php
+        icon: fas fa-link
+        description: "梓喵 :: 签到 - Powered by NexusPHP"
+      - name: "HAIDAN :: 首页 海胆之家 - Powered by NexusPHP"
+        url: https://www.haidan.video/index.php
+        icon: fas fa-link
+        description: "HAIDAN :: 首页 海胆之家 - Powered by NexusPHP"
+      - name: "CarPT :: 首页 - Powered by NexusPHP"
+        url: https://carpt.net/index.php
+        icon: fas fa-link
+        description: "CarPT :: 首页 - Powered by NexusPHP"
+      - name: "CHDBits :: 首页 - Powered by NexusPHP"
+        url: https://chdbits.co/index.php
+        icon: fas fa-link
+        description: "CHDBits :: 首页 - Powered by NexusPHP"
+      - name: "HDVIDEO :: 首页 - Powered by NexusPHP"
+        url: https://hdvideo.one/
+        icon: fas fa-link
+        description: "HDVIDEO :: 首页 - Powered by NexusPHP"
+      - name: "白兔俱乐部 :: 首页"
+        url: https://club.hares.top/index.php
+        icon: fas fa-link
+        description: "白兔俱乐部 :: 首页"
+      - name: "打胶 :: 首页 - Powered by NexusPHP"
+        url: https://dajiao.cyou/index.php
+        icon: fas fa-link
+        description: "打胶 :: 首页 - Powered by NexusPHP"
+      - name: MonikaDesign - Built On Laravel
+        url: https://monikadesign.uk/pages/1
+        icon: fas fa-link
+        description: MonikaDesign - Built On Laravel
+      - name: "Free Farm :: 首页 自由农场|FreeFarm - Powered by NexusPHP"
+        url: https://pt.0ff.cc/index.php
+        icon: fas fa-link
+        description: "Free Farm :: 首页 自由农场|FreeFarm - Powered by NexusPHP"
+      - name: 老卡通世界 ：： 首页 - 由 NexusPHP 提供支持
+        url: https://oldtoons.world/index.php
+        icon: fas fa-link
+        description: 老卡通世界 ：： 首页 - 由 NexusPHP 提供支持
+      - name: "HDFans :: 首页 - Powered by NexusPHP"
+        url: https://hdfans.org/index.php
+        icon: fas fa-link
+        description: "HDFans :: 首页 - Powered by NexusPHP"
+      - name: "UltraHD :: PM (欢迎来到UltraHD!) - Powered by NexusPHP"
+        url: https://ultrahd.net/messages.php?action=viewmessage&id=2253079
+        icon: fas fa-link
+        description: "UltraHD :: PM (欢迎来到UltraHD!) - Powered by NexusPHP"
+      - name: "聆音Club :: 首页 - Powered by NexusPHP"
+        url: https://pt.soulvoice.club/index.php
+        icon: fas fa-link
+        description: "聆音Club :: 首页 - Powered by NexusPHP"
+      - name: 天雪☆论坛 - Powered by Discuz!
+        url: https://www.skyey2.com/forum.php
+        icon: fas fa-link
+        description: 天雪☆论坛 - Powered by Discuz!
+      - name: "KamePT :: 首页 - Powered by NexusPHP"
+        url: https://kamept.com/index.php
+        icon: fas fa-link
+        description: "KamePT :: 首页 - Powered by NexusPHP"
+      - name: "浏览种子 :: DIC Music"
+        url: https://dicmusic.club/torrents.php
+        icon: fas fa-link
+        description: "浏览种子 :: DIC Music"
+      - name: "OKPT :: 首页 - Powered by NexusPHP"
+        url: https://www.okpt.net/index.php
+        icon: fas fa-link
+        description: "OKPT :: 首页 - Powered by NexusPHP"
+      - name: 天雪☆论坛 - Powered by Discuz!
+        url: https://www.skyey2.com/
+        icon: fas fa-link
+        description: 天雪☆论坛 - Powered by Discuz!
+      - name: "ＰＴ之友俱乐部 :: 首页 PTerClub"
+        url: https://pterclub.com/index.php?&noredir=1
+        icon: fas fa-link
+        description: "ＰＴ之友俱乐部 :: 首页 PTerClub"
+      - name: "U2分享園@動漫花園 :: 首页"
+        url: https://u2.dmhy.org/index.php
+        icon: fas fa-link
+        description: "U2分享園@動漫花園 :: 首页"
+      - name: "News :: dreamingtree"
+        url: https://dreamingtree.org/index.php
+        icon: fas fa-link
+        description: "News :: dreamingtree"
+      - name: Libble.me音乐站等开注
+        url: https://libble.me/index.php
+        icon: fas fa-link
+        description: Libble.me音乐站等开注
+      - name: "HDZone :: 首页 - Powered by NexusPHP"
+        url: http://hdfun.me/index.php
+        icon: fas fa-link
+        description: "HDZone :: 首页 - Powered by NexusPHP"
+      - name: "Rousi :: 首页 - Powered by NexusPHP"
+        url: https://rousi.zip/index.php
+        icon: fas fa-link
+        description: "Rousi :: 首页 - Powered by NexusPHP"
+      - name: LANraragi
+        url: http://192.168.8.125:3005/
+        icon: fas fa-link
+        description: LANraragi
+      - name: "ICC2022—冰淇淋 :: 首页 - Powered by NexusPHP"
+        url: https://www.icc2022.com/index.php
+        icon: fas fa-link
+        description: "ICC2022—冰淇淋 :: 首页 - Powered by NexusPHP"
+      - name: "SSD :: 首页 - Powered by NexusPHP"
+        url: https://springsunday.net/index.php
+        icon: fas fa-link
+        description: "SSD :: 首页 - Powered by NexusPHP"
+      - name: "52PT :: 首页 - Powered by NexusPHP"
+        url: https://52pt.site/index.php
+        icon: fas fa-link
+        description: "52PT :: 首页 - Powered by NexusPHP"
+      - name: SSDForum - Powered by Discuz!
+        url: https://ssdforum.org/forum.php
+        icon: fas fa-link
+        description: SSDForum - Powered by Discuz!
+      - name: invites.fun
+        url: https://invites.fun/
+        icon: fas fa-link
+        description: invites.fun
+      - name: TorrentLeech.org
+        url: https://www.torrentleech.cc/torrents/top/index/added/-1%20day/orderby/completed/order/desc
+        icon: fas fa-link
+        description: TorrentLeech.org
+      - name: 蝴蝶-HUDBT 首页
+        url: https://hudbt.hust.edu.cn/index.php
+        icon: fas fa-link
+        description: 蝴蝶-HUDBT 首页
+      - name: JPTV.club - JPTV for everyone!
+        url: https://jptv.club/pages/1
+        icon: fas fa-link
+        description: JPTV.club - JPTV for everyone!
+      - name: "百川PT :: 首页 - Powered by NexusPHP"
+        url: https://www.hitpt.com/index.php
+        icon: fas fa-link
+        description: "百川PT :: 首页 - Powered by NexusPHP"
+      - name: "电影 :: Great Poster Wall"
+        url: https://greatposterwall.com/torrents.php
+        icon: fas fa-link
+        description: "电影 :: Great Poster Wall"
+      - name: github.com
+        url: https://github.com/pt-plugins/PT-Plugin-Plus/graphs/contributors
+        icon: fab fa-github
+        description: github.com
+      - name: "3Wmg :: 首頁 芒果 - Powered by NexusPHP"
+        url: https://www.3wmg.com/index.php
+        icon: fas fa-link
+        description: "3Wmg :: 首頁 芒果 - Powered by NexusPHP"
+      - name: "PT GTK :: 首页 BT|电影|韩剧|美剧|日剧|资源|下载|影视|剧集 - Powered by NexusPHP"
+        url: https://pt.gtk.pw/index.php
+        icon: fas fa-link
+        description: "PT GTK :: 首页 BT|电影|韩剧|美剧|日剧|资源|下载|影视|剧集 - Powered by NexusPHP"
+      - name: PT分享站 - itzmx.com
+        url: https://pt.itzmx.com/index.php
+        icon: fas fa-link
+        description: PT分享站 - itzmx.com
+      - name: "悟空问道 :: 首页 探索未知、持续学习 - Powered by NexusPHP"
+        url: https://wukongwendao.top/index.php
+        icon: fas fa-link
+        description: "悟空问道 :: 首页 探索未知、持续学习 - Powered by NexusPHP"
+      - name: "Home :: FileList"
+        url: https://filelist.io/index.php
+        icon: fas fa-link
+        description: "Home :: FileList"
+      - name: "InsWan&#39;s PT β :: 首页"
+        url: https://pt.inswan.fun/index.php
+        icon: fas fa-link
+        description: "InsWan&#39;s PT β :: 首页"
+      - name: FSM - May the force be with you
+        url: https://fsm.name/Index
+        icon: fas fa-link
+        description: FSM - May the force be with you
+      - name: "PTHOME :: 首页 PT|下載|電影|藍光電影|電影資源|最新電影|ipv4/ipv6 - Powered by NexusPHP"
+        url: https://pthome.net/index.php
+        icon: fas fa-link
+        description: "PTHOME :: 首页 PT|下載|電影|藍光電影|電影資源|最新電影|ipv4/ipv6 - Powered by NexusPHP"
+      - name: "OshenPT :: 首页 - Powered by NexusPHP"
+        url: https://www.oshen.win/
+        icon: fas fa-link
+        description: "OshenPT :: 首页 - Powered by NexusPHP"
+      - name: Streaming and music Downloads in 24-Bit Hi-Res - Qobuz
+        url: https://www.qobuz.com/gb-en/page/naive-jazz
+        icon: fas fa-link
+        description: Streaming and music Downloads in 24-Bit Hi-Res - Qobuz
+      - name: "News :: Redacted"
+        url: https://redacted.ch/
+        icon: fas fa-link
+        description: "News :: Redacted"
+      - name: Ubuntu18.04卸载QQ_ubuntu卸载qq_PX Yue的博客-CSDN博客
+        url: https://blog.csdn.net/weixin_58207716/article/details/123131997
+        icon: fas fa-link
+        description: Ubuntu18.04卸载QQ_ubuntu卸载qq_PX Yue的博客-CSDN博客
+      - name: "星空 :: 首页 - Powered by NexusPHP"
+        url: https://star-space.net/index.php
+        icon: fas fa-link
+        description: "星空 :: 首页 - Powered by NexusPHP"
+      - name: Plex
+        url: http://192.168.8.125:32400/web/index.html#!/
+        icon: fas fa-link
+        description: Plex
+      - name: "葡萄 :: 首页"
+        url: https://pt.sjtu.edu.cn/index.php
+        icon: fas fa-link
+        description: "葡萄 :: 首页"
+      - name: 国语视界︱字幕︱音轨︱特效字幕︱国语音轨︱音频软件︱影视教程 - 国语视界
+        url: https://cnlang.org/forum.php
+        icon: fas fa-link
+        description: 国语视界︱字幕︱音轨︱特效字幕︱国语音轨︱音频软件︱影视教程 - 国语视界
+      - name: PTerClub Image Hosting Service - PT之友俱乐部图床
+        url: https://s3.pterclub.com/
+        icon: fas fa-link
+        description: PTerClub Image Hosting Service - PT之友俱乐部图床
+      - name: "PT时间 :: 种子 - Powered by NexusPHP"
+        url: https://www.pttime.org/torrents.php
+        icon: fas fa-link
+        description: "PT时间 :: 种子 - Powered by NexusPHP"
+      - name: "BedsRocks :: 种子 - Powered by NexusPHP"
+        url: https://beds.rocks/torrents.php
+        icon: fas fa-link
+        description: "BedsRocks :: 种子 - Powered by NexusPHP"
+  - name: 刷流
+    icon: fas fa-folder
+    sites:
+      - name: "PT@KEEPFRDS :: 种子 - Powered by NexusPHP"
+        url: https://pt.keepfrds.com/torrents.php?incldead=1&spstate=4&inclbookmarked=0&option-torrents=0&search=&search_area=0&search_mode=0
+        icon: fas fa-link
+        description: "PT@KEEPFRDS :: 种子 - Powered by NexusPHP"
+      - name: "PT@KEEPFRDS :: 查看主题 &quot;编辑精选：【吉卜力作品合集 】内含 24 部作品 MNHD 版本&quot; - Powered by NexusPHP"
+        url: https://pt.keepfrds.com/forums.php?action=viewtopic&forumid=20&topicid=1230
+        icon: fas fa-link
+        description: "PT@KEEPFRDS :: 查看主题 &quot;编辑精选：【吉卜力作品合集 】内含 24 部作品 MNHD 版本&quot; - Powered by NexusPHP"
+      - name: EK VPS World
+        url: http://vps.s62.live/
+        icon: fas fa-link
+        description: EK VPS World
+      - name: 教程③新手问题合集
+        url: https://flowus.cn/share/49045823-7092-4477-bcd7-71f7a928433d
+        icon: fas fa-link
+        description: 教程③新手问题合集
+      - name: "mmp :: 种子 - Powered by NexusPHP"
+        url: https://pt.biner.world/torrents.php?sort=5&type=desc
+        icon: fas fa-link
+        description: "mmp :: 种子 - Powered by NexusPHP"
+      - name: 半自动拆包刷流教程
+        url: https://misyi.notion.site/2b13912824354908917640558af04bab#8bad73761cfe447cb32b0f4165a99b32
+        icon: fas fa-link
+        description: 半自动拆包刷流教程
+      - name: PT小助手
+        url: http://192.168.8.125:8192/pt/tracker/index
+        icon: fas fa-link
+        description: PT小助手
+      - name: 安装PTOOLS 教程
+        url: https://ptools.fun/
+        icon: fas fa-link
+        description: 安装PTOOLS 教程
+      - name: UU在线工具 - 便捷实用的工具集合站
+        url: https://uutool.cn/
+        icon: fas fa-link
+        description: UU在线工具 - 便捷实用的工具集合站
+      - name: Sleazy Fork - 安全、有用的用户脚本大全
+        url: https://sleazyfork.org/zh-CN
+        icon: fas fa-link
+        description: Sleazy Fork - 安全、有用的用户脚本大全
+      - name: 全国卷烟订货平台
+        url: https://www.jinye.cn/marketing-orderplatform/ui/pages/index.html
+        icon: fas fa-link
+        description: 全国卷烟订货平台
