@@ -18,26 +18,30 @@ categories:
         url: https://stackoverflow.com
         icon: fab fa-stack-overflow
         description: 程序员问答社区
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
+      - name: Deno
+        url: https://dash.deno.com
+        icon: fas fa-grin-tongue-wink
+        description: 安全、现代、兼容性好
       - name: Cloudflare
         url: https://dash.cloudflare.com
         icon: fas fa-cloudflare
         description: 高效、安全、全球加速
       - name: Fontawesome
-        url: https://fontawesome.com/search
+        url: https://fontawesome.com/v5/search
         icon: fas fa-regular fa-font-awesome
         description: 图标丰富，使用便捷
       - name: Huggingface
         url: https://huggingface.co
-        icon: fas fa-solid fa-face-smiling-hands
+        icon: fas fa-robot
         description: 创新、开源、AI、社区、强大、便捷
       - name: Vercel
         url: https://vercel.com
-        icon: fas fa-solid fa-volcano
-        description: 快速、简洁、现代化平台  
+        icon: fas fa-university
+        description: 快速、简洁、现代化平台
+      - name: Netlify
+        url: https://app.netlify.com
+        icon: fas fa-magnet
+        description: 高效、简洁、现代化部署  
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
