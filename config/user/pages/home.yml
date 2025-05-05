@@ -29,8 +29,15 @@ categories:
       - name: Fontawesome
         url: https://fontawesome.com/search
         icon: fas fa-regular fa-font-awesome
-        description: 加速、安全、可靠的网络服务提供商
-        
+        description: 图标丰富，使用便捷
+      - name: Huggingface
+        url: https://huggingface.co
+        icon: fas fa-solid fa-face-smiling-hands
+        description: 创新、开源、AI、社区、强大、便捷
+      - name: Vercel
+        url: https://vercel.com
+        icon: fas fa-solid fa-volcano
+        description: 快速、简洁、现代化平台  
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
