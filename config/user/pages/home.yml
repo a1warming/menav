@@ -26,13 +26,13 @@ categories:
         url: https://dash.cloudflare.com
         icon: fas fa-cloudflare
         description: 高效、安全、全球加速
-      - name: Fontawesome
-        url: https://fontawesome.com/v5/search
+      - name: Proton
+        url: https://mail.proton.me/u/0/inbox
         icon: fas fa-regular fa-font-awesome
-        description: 图标丰富，使用便捷
+        description: 便捷的邮箱
       - name: Huggingface
         url: https://huggingface.co
-        icon: fas fa-robot
+        icon: fab fa-octopus-deploy
         description: 创新、开源、AI、社区、强大、便捷
       - name: Vercel
         url: https://vercel.com
@@ -41,7 +41,26 @@ categories:
       - name: Netlify
         url: https://app.netlify.com
         icon: fas fa-magnet
-        description: 高效、简洁、现代化部署  
+        description: 高效、简洁、现代化部署
+  - name: 大模型平台
+    icon: fas fa-seedling
+    sites:
+      - name: Deepseek
+        url: https://platform.deepseek.com
+        icon: fas fa-robot
+        description: 顶级大模型平台
+      - name: 硅基流动
+        url: https://account.siliconflow.cn
+        icon: fas fa-seedling
+        description: 大善人，各种免费模型
+      - name: Grok
+        url: https://console.x.ai/team/950dc80d-6d30-49f8-8e70-193807a5c13e/billing/credits
+        icon: fab fa-canadian-maple-leaf
+        description: 老马的大模型
+      - name: Gemini
+        url: https://aistudio.google.com
+        icon: fas fa-tree
+        description: Google的大模型
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
@@ -118,3 +137,7 @@ categories:
         url: https://carbon.now.sh
         icon: fas fa-code
         description: 代码图片生成器
+      - name: Itdog
+        url: https://www.itdog.cn/http/
+        icon: fas fa-dog
+        description: 测试域名连通性
