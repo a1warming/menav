@@ -32,7 +32,7 @@
         icon: fab fa-github
         description: 基于cloudflare部署的临时邮箱
         url: "https://mail.wellfam.me" 
-   - name: 娱乐
+    - name: 娱乐
      icon: fas fa-code-branch
      sites:
       - name: TV
@@ -42,4 +42,4 @@
       - name: Music
         icon: fas fa-music
         description: 一个免费的音乐站
-        url: "https://music.warmus.me/app/#/login" 
+        url: "https://music.warmus.me/app/#/login"  
