@@ -1,29 +1,45 @@
-title: 我的项目
-subtitle: 这里展示了我的一些个人项目和开源贡献
-categories:
   - name: 个人项目
     icon: fas fa-code
     sites:
       - name: 个人导航站
         icon: fas fa-compass
         description: 一个简洁美观的个人导航页面
-        url: "#"
-      - name: Todo List
+        url: "https://angel.warming.top"
+      - name: Lksky
         icon: fas fa-tasks
-        description: 基于Vue3的待办事项管理器
-        url: "#"
+        description: 兰空图床
+        url: "https://lkimage.warmus.me/"
       - name: 个人博客
         icon: fas fa-blog
         description: 使用Hexo搭建的技术博客
-        url: "#"
-  - name: 开源贡献
+        url: "https://blog.wellfam.me"
+      - name: 网站状态监控
+        icon: fas fa-battery-full
+        description: 监控个人部署的项目
+        url: "https://status.warming.top"
+      - name: 抱脸数据监控
+        icon: fas fa-cloud-sun
+        description: 监控抱脸平台部署项目的监控工具
+        url: "https://hfstatus.warming.top"
+  - name: 常用
     icon: fas fa-code-branch
     sites:
-      - name: Project A
+      - name: Cloudpaste
         icon: fab fa-github
-        description: 开源项目贡献
-        url: "#"
-      - name: Project B
+        description: 基于Worker的在线剪贴板和文件分享服务
+        url: "https://cloudpaste.everjoy.me"
+      - name: 临时邮箱
         icon: fab fa-github
-        description: 开源项目贡献
-        url: "#" 
+        description: 基于cloudflare部署的临时邮箱
+        url: "https://mail.wellfam.me" 
+   - name: 娱乐
+     icon: fas fa-code-branch
+     sites:
+      - name: TV
+        icon: class="fas fa-tv
+        description: 免费视频网站
+        url: "https://warmtv.netlify.app"
+      - name: Music
+        icon: fas fa-music
+        description: 一个免费的音乐站
+        url: "https://music.warmus.me/app/#/login" 
