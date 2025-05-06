@@ -1,4 +1,7 @@
-  - name: 个人项目
+title: 我的项目
+subtitle: 这里展示了我的一些个人项目和开源贡献
+categories:
+- name: 个人项目
     icon: fas fa-code
     sites:
       - name: 个人导航站
@@ -21,14 +24,14 @@
         icon: fas fa-cloud-sun
         description: 监控抱脸平台部署项目的监控工具
         url: "https://hfstatus.warming.top"
-  - name: 常用
+  - name: 开源贡献
     icon: fas fa-code-branch
     sites:
-      - name: Cloudpaste
+      - name: Project A
         icon: fab fa-github
-        description: 基于Worker的在线剪贴板和文件分享服务
-        url: "https://cloudpaste.everjoy.me"
-      - name: 临时邮箱
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
         icon: fab fa-github
-        description: 基于cloudflare部署的临时邮箱
-        url: "https://mail.wellfam.me"
+        description: 开源项目贡献
+        url: "#" 
