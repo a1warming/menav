@@ -31,15 +31,4 @@
       - name: 临时邮箱
         icon: fab fa-github
         description: 基于cloudflare部署的临时邮箱
-        url: "https://mail.wellfam.me" 
-    - name: 娱乐
-     icon: fas fa-code-branch
-     sites:
-      - name: TV
-        icon: class="fas fa-tv
-        description: 免费视频网站
-        url: "https://warmtv.netlify.app"
-      - name: Music
-        icon: fas fa-music
-        description: 一个免费的音乐站
-        url: "https://music.warmus.me/app/#/login"
+        url: "https://mail.wellfam.me"
