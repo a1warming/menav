@@ -35,11 +35,15 @@ categories:
         icon: fab fa-github
         description: 基于cloudflare部署的临时邮箱
         url: "https://mail.wellfam.me" 
+      - name: 导航
+        icon: fab fa-confluence
+        description: 基于worker的导航站
+        url: "https://mail.wellfam.me" 
   - name: 娱乐
     icon: fas fa-code-branch
     sites:
       - name: TV
-        icon: class="fas fa-tv
+        icon: fas fa-icons
         description: 免费视频网站
         url: "https://warmtv.netlify.app"
       - name: Music
