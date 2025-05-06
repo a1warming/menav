@@ -42,4 +42,4 @@
       - name: Music
         icon: fas fa-music
         description: 一个免费的音乐站
-        url: "https://music.warmus.me/app/#/login"  
+        url: "https://music.warmus.me/app/#/login"
