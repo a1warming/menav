@@ -126,6 +126,10 @@ categories:
         url: https://www.iconfont.cn
         icon: fas fa-icons
         description: 图标资源库
+      - name: Fontawesome
+        url: https://fontawesome.com/v5/search
+        icon: fas fa-atom
+        description: 图标资源库
   - name: 在线工具
     icon: fas fa-wrench
     sites:
@@ -135,7 +139,7 @@ categories:
         description: JSON在线编辑器
       - name: Can I Use
         url: https://caniuse.com
-        icon: fas fa-browser
+        icon: fab fa-firefox-browser
         description: 浏览器兼容性查询
       - name: TinyPNG
         url: https://tinypng.com
