@@ -7,42 +7,23 @@ categories:
       - name: 个人导航站
         icon: fas fa-compass
         description: 一个简洁美观的个人导航页面
-        url: "https://angel.warming.top"
-      - name: Lksky
+        url: "#"
+      - name: Todo List
         icon: fas fa-tasks
-        description: 兰空图床
-        url: "https://lkimage.warmus.me/"
+        description: 基于Vue3的待办事项管理器
+        url: "#"
       - name: 个人博客
         icon: fas fa-blog
         description: 使用Hexo搭建的技术博客
-        url: "https://blog.wellfam.me"
-      - name: 网站状态监控
-        icon: fas fa-battery-full
-        description: 监控个人部署的项目
-        url: "https://status.warming.top"
-      - name: 抱脸数据监控
-        icon: fas fa-cloud-sun
-        description: 监控抱脸平台部署项目的监控工具
-        url: "https://hfstatus.warming.top"
-  - name: 常用
+        url: "#"
+  - name: 开源贡献
     icon: fas fa-code-branch
     sites:
-      - name: Cloudpaste
+      - name: Project A
         icon: fab fa-github
-        description: 基于Worker的在线剪贴板和文件分享服务
-        url: "https://cloudpaste.everjoy.me"
-      - name: 临时邮箱
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
         icon: fab fa-github
-        description: 基于cloudflare部署的临时邮箱
-        url: "https://mail.wellfam.me" 
-    - name: 娱乐
-    icon: fas fa-code-branch
-    sites:
-      - name: TV
-        icon: class="fas fa-tv
-        description: 免费视频网站
-        url: "https://warmtv.netlify.app"
-      - name: Music
-        icon: fas fa-music
-        description: 一个免费的音乐站
-        url: "https://music.warmus.me/app/#/login" 
+        description: 开源项目贡献
+        url: "#" 
