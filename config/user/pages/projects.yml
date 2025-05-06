@@ -41,8 +41,8 @@ categories:
         url: "https://mail.wellfam.me"
       - name: Deepsearch
         icon: fa-brands fa-codepen
-        description: 基于page的深度研究ai项目
-        url: "https://deepsearch.luckyus.me"
+        description: 基于vercel部署的深度研究ai项目
+        url: "https://deepsearch.warming.top"
   - name: 娱乐
     icon: fas fa-code-branch
     sites:
