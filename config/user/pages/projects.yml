@@ -24,14 +24,14 @@ categories:
         icon: fas fa-cloud-sun
         description: 监控抱脸平台部署项目的监控工具
         url: "https://hfstatus.warming.top"
-  - name: 开源贡献
+  - name: 常用
     icon: fas fa-code-branch
     sites:
-      - name: Project A
+      - name: Cloudpaste
         icon: fab fa-github
-        description: 开源项目贡献
-        url: "#"
-      - name: Project B
+        description: 基于Worker的在线剪贴板和文件分享服务
+        url: "https://cloudpaste.everjoy.me"
+      - name: 临时邮箱
         icon: fab fa-github
-        description: 开源项目贡献
-        url: "#" 
+        description: 基于cloudflare部署的临时邮箱
+        url: "https://mail.wellfam.me" 
