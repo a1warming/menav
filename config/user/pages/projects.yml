@@ -38,7 +38,11 @@ categories:
       - name: 导航
         icon: fab fa-confluence
         description: 基于worker的导航站
-        url: "https://mail.wellfam.me" 
+        url: "https://mail.wellfam.me"
+      - name: Deepsearch
+        icon: fa-brands fa-codepen
+        description: 基于page的深度研究ai项目
+        url: "https://deepsearch.luckyus.me"
   - name: 娱乐
     icon: fas fa-code-branch
     sites:
