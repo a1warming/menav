@@ -57,4 +57,8 @@ categories:
       - name: Music
         icon: fas fa-music
         description: 一个免费的音乐站
-        url: "https://music.warmus.me/app/#/login" 
+        url: "https://music.warmus.me/app/#/login"
+      - name: SimpleVideo
+        icon: fa-solid fa-video
+        description: 一个免费的音乐站
+        url: "https://simplev.warming.top"  
