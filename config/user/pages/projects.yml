@@ -60,5 +60,5 @@ categories:
         url: "https://music.warmus.me/app/#/login"
       - name: SimpleVideo
         icon: fa-solid fa-video
-        description: 一个免费的音乐站
+        description: 一个基于vercel部署的视频播放项目
         url: "https://simplev.warming.top"  
