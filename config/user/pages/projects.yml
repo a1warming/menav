@@ -24,6 +24,10 @@ categories:
         icon: fas fa-cloud-sun
         description: 监控抱脸平台部署项目的监控工具
         url: "https://hfstatus.warming.top"
+      - name: pve导航站
+        icon: fas fa-compass
+        description: 个人pve导航页面
+        url: "https://sun.loveximi.top"
   - name: 常用
     icon: fas fa-code-branch
     sites:
