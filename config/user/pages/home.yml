@@ -107,6 +107,10 @@ categories:
         url: https://dashboard.uptimerobot.com/monitors
         icon: fas fa-stopwatch
         description: 一个监控工具
+      - name: Render
+        url:  https://dashboard.render.com/login
+        icon: fas fa-university
+        description: 免费的项目部署平台
   - name: 设计资源
     icon: fas fa-palette
     sites:
